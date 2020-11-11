@@ -3,5 +3,7 @@ numpy==1.19.3
 scipy==1.4.1
 matplotlib==3.2.2
 tensorflow==2.1
+tensorflow-addons==0.8.3
 keras==2.1.6
+jupyterlab==2.2.9
 shap
