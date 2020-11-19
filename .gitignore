@@ -2,3 +2,7 @@ py369*/
 .jupyter/
 .ipynb_checkpoints/
 models/
+
+
+.venv/
+venv/
