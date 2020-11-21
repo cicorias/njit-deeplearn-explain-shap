@@ -8,4 +8,5 @@ keras==2.1.6
 h5py==2.10.0
 jupyterlab==2.2.9
 Pillow==8.0.1
+opencv-python==4.1.0.25
 shap

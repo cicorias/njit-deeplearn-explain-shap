@@ -1,0 +1,56 @@
+patientid,offset,sex,age,finding,survival,temperature,pO2 saturation,view,modality,artifacts/distortion,notes
+COVID-00001,13,M,33,COVID-19,,,58,AP erect,X-ray,,"O2 saturation was initially 58% on room air and 89% on 15 litres of Oxygen via non-rebreather mask, Heart rate of 146 and Blood pressure of 143/81."
+COVID-00002,,M,50+,,,,,AP erect,X-ray,,"50+ male patient, asthmatic, returning from a COVID-19-affected European country a few days earlier. Started to feel unwell before departure with fever and shortness of breath. No wheeze, hypoxia, tachypnea or tachycardia on assessment, only pyrexial with persistent dry cough."
+COVID-00003a,8,M,28,,,39.1,90,AP erect,X-ray,,"28M previously fit and well, not on any regular medications, presented with a 6 day Hx of fever, non-productive cough and SOB for the last 4 days. His symptoms started as sore throat and coryzal symptoms 8 days prior to his presentation and he reported contact with a friend with similar symptomatology. O/E T39.1 HR87 BP119/63 RR38 SpO2 90% on RA. Bilateral nasal crepitations without a wheeze."
+COVID-00003b,8,M,28,,,39.1,90,AP erect,X-ray,,Post-intubation in the critical care setting
+COVID-00004,2,M,42,COVID-19,,,91-92,PA,X-ray,,"42 year old male patient presented to ED with two day history of fever and mild shortness of breath. No cough, no sore throat, no runny nose, no myalgia, no anosmia/hyposmia, no nausea or vomiting, no Abdo pain and no diarrhoea. He has no past medical history, not on any medications and is an Ex-Smoker. On examinations, he had high-grade fever and O2 Saturation of 91-92 on room air."
+COVID-00005,,,,,,,,,X-ray,"Slight from monitor, red blur on bottom left corner",N/A
+COVID-00006,5,F,57,COVID-19,,,,,X-ray,Some from monitor,"57 year old female. Returning from Texas March 13th, unremarkable PMHx. Main complaint: ABDO PAIN, presented with muscle aches, fever, diarrhea, abdo pain, not eating x 5 days, NO COUGH, MILDLY SOB, NO SORE THROAT"
+COVID-00007,,,73,,,38+,,,X-ray,"Some from monitor, slight uneven colour tint",73 yo. No antecedents. Fever 38° + cough. Severe respiratory insufficiency.
+COVID-00008,4,M,47,COVID-19,,,92,AP erect,X-ray,"Some from monitor, dust specks, cropped out mouse and oversaturation at bottom","47 Male, BMI 34, sleep apnea and childhood asthma, return from travel 14 days prior, 4 days fever, dry cough with progressive dyspnea. Arriving sat 92% AA, rapid deterioration, confirmed covid. Intubated for 2 weeks now"
+COVID-00009,,,,COVID-19,,,,,X-ray,"Some from monitor, oversaturation at bottom",CXray during worsening corona infection
+COVID-00010,5,M,50+,,,,,AP erect,X-ray,,Male in his 50s. Presenting to ER 5 days after developing a fever and cough.
+COVID-00011,12,F,35,COVID-19,,,,,X-ray,,"35 year-old G3P1001 at 34 weeks presents with acute onset, non-exertional dyspnea and nausea with 2-3 episodes of ""coke-colored"" emesis. Of note, she was treated for influenza about 12 days prior. She was tachypnic (to the mid 20's) and Tachycardic (to the 120's-130's) on exam with a positive Homan sign in her left lower extremity. After a DVT was ruled out, she was treated for a multi-focal pneumonia and admitted to OBGyn. She tested positive for COVID-19 + 24 hours later while hospitalized."
+COVID-00012,,M,52,COVID-19,,,86,,X-ray,,"A30 A 52-year-old male patient, insulin dependent diabetic, came to the respiratory emergency room on March 25, referring to unverified fever, dry cough, lack of appetite, tiredness on small efforts and edema of the lower limbs ""for a long time"" (sic). It evolves with dyspnea, desaturation (SAT O2 86% in room air), central cyanosis and SARS, requiring intubation of the oro trachea. Tomography reports bilateral consolidations, ground-glass pattern. Oropharyngeal swab for SRS confirmed COVID-19 by PCR-RT."
+COVID-00013a,,F,60,,,,,AP,X-ray,,"60 yo female with pmh of asthma and htn. Xrays taken 1 day apart, later intubated."
+COVID-00013b,,F,60,,,,,AP,X-ray,,"60 yo female with pmh of asthma and htn. Xrays taken 1 day apart, later intubated."
+COVID-00014,2,F,59,,,,86,PA,X-ray,,"Female 59 years old, fever, dry cough for 2 days who develops difficulty to breath. SatO2 86%"
+COVID-00015a,,,67+,COVID-19,,,,,X-ray,,Patient above retirement age with no visible signs or symptoms other than fatigue & weakness to upper extremities (chronic ailment). Denies cough/abdominal pain/SOB/fever. Pt is afebrile and VSS and WNL. This image was prior to patient test results confirmed COVID POSITIVE.
+COVID-00015b,,,67+,COVID-19,,,,,X-ray,,Image was taken 3 days after patient had been confirmed COVID-19 positive
+COVID-00016,16,M,64,COVID-19,,,low 90s,,X-ray,Slight from monitor,"64 yo M w/ HTN, DM2, OSA admitted with cough, malaise and subjective fevers x 10 days, CXR hospital day 6. He had lymphopenia, normal procalcitonin and mild elevations of ferritin and d-dimer. He is COVID positive. O2 says in low 90’s on 2 L, worsened to 4-5 L NC and then improved to low 90’s on room air at rest by time of discharge on hospital day 7."
+COVID-00017,11,F,64,COVID-19,,,,,X-ray,Some from monitor,"COVID case 64 yo F w/ HTN, HLD discharged after a week long admission with COVID 19. Initial chest x-ray performed at an ED and cefuroxime/doxycycline prescribes. COVID subsequently returned positive and she had worsening symptoms of cough and dyspnea. Repeat cxr 4 days after ED presentation with worsening infiltrates. Procalcitonin undetectable, no lymphopenia. Doxy/cefuroxime discontinued, started in azithro + hydroxychloroquine. She did not develop hypoxemia."
+COVID-00018,17,F,33,COVID-19,,,,,X-ray,,33 year old female onset of sore throat on 3/10 negative for strep and flu. Cough sob low grade fever lethargy body aches loss of smell and taste. 3/18 tested negative for COVID19. Cough sob and cough and chest tightness persist.  Cxr taken on 3/27. Tested positive 4/4.
+COVID-00019,,M,45,,,39,,AP,X-ray,,"45 years, male, with cought, dysnea, fever of 39C, went to E.R. with symptoms of Covid-19, with no PCR test yet."
+COVID-00020,21,,39,COVID-19,,,,,X-ray,,covid 39yo 3rd week
+COVID-00021,,M,50+,COVID-19,,,,PA,X-ray,,"RX-PA, sex M, >50"
+COVID-00022,,,,COVID-19,,,,,X-ray,,
+COVID-00023,,,,No finding,,,,,X-ray,,
+COVID-00024,,,,COVID-19,,,,,X-ray,,labeled Covid19
+COVID-00025,,,,COVID-19,,,,,X-ray,,labeled Covid19
+COVID-00026,,,,COVID-19,,,,,X-ray,,covid19
+COVID-00027,,,,COVID-19,,,,,X-ray,,labeled covid19
+COVID-00028,,,,No finding,,,,,X-ray,,labeled normal patient
+COVID-00029,,,,COVID-19,,,,,X-ray,,labeled covid19
+COVID-00030,,,,COVID-19,,,,,X-ray,,labeled covid19
+COVID-00031,,,,Pneumonia,,,,,X-ray,,labeled pneumonia
+COVID-00032,,,,COVID-19,,,,,X-ray,,labeled covid19
+COVID-00033,,,,COVID-19,,,,,X-ray,,labeled covid19
+COVID-00034,,,,Pneumonia,,,,,X-ray,,labeled pneumonia
+COVID-00035,,,,COVID-19,,,,,X-ray,,labeled covid19
+COVID-00036,,,,COVID-19,,,,,X-ray,,labeled covid19
+COVID-00037,,,,COVID-19,,,,,X-ray,,labeled covid19
+COVID-00038,,,,COVID-19,,,,,X-ray,,labeled as covid19
+COVID-00039a,10,F,77,COVID-19,,,80,AP erect,X-ray,,"77F with a background notable of metastatic small bowel GIST on chemotherapy, HTN, thyroidectomy, cholecystectomy presented with 10 day Hx of intermittent fevers, non productive cough and increased SOB. PO2 8.8 on FiO2 0.85 on admission Admitted to ICU and Intubated Lung protective ventilation commenced but desaturated to 80% following RIJ CVC. Decompressed by the bedside and a CXR was performed that revealed large #pneumothorax. Chest drain inserted with pneumothorax resolved gradually. 1 day after admission the admitting diagnosis was confirmed #COVID-19"
+COVID-00039b,10,F,77,COVID-19,,,80,AP erect,X-ray,,
+COVID-00039c,10,F,77,COVID-19,,,80,AP erect,X-ray,,
+COVID-00040a,7,,early 40s,No finding,,,,,X-ray,,Normal image of patient is one acquired a year earlier.
+COVID-00040b,7,,early 40s,,,,,,X-ray,,Patient in early 40s with a week of fever and dry cough. Patient discharged.
+COVID-00041,7,,mid 50s,,,,,AP erect,X-ray,,"Patient in mid 50s with similar history (a week of fever and dry cough) but unlike the former, has oxygen requirement. Patient admitted for O2 therapy."
+COVID-00042,14,F,45,,,,52,AP erect,X-ray,,"45 year old female presented to A&E with the following symptoms - Shortness of breath - Productive cough last 2 weeks - Weight loss - Fever Background history - HIV positive on 2nd line ARVs - Unknown CD4 and viral count - No known covid contacts On examination - Vitals: BP 143/92, HR 123, Sats: 52% on RA and 94% on polymask O2, RR- 38 - General: increased BMI, half-and half nails, generalised lymphadenopathy - Resp: mild alar flaring, SCR, scattered crackles. - others systems: nothing of note"
+COVID-00043a,,,,COVID-19,,,,,X-ray,,"This patient was admitted to the ICU with COVID pneumonia a few weeks ago and due to a very high D-dimer level, empiric anticoagulation was initiated."
+COVID-00043b,,,,COVID-19,,,,,X-ray,,"The night prior to extubation, the patients oxygen saturation plummeted, fresh blood appeared in the ventilator tubing, and the second X-ray was obtained."
+COVID-00044,,,,,,,,,X-ray,,primary tuberculosis infection
+COVID-00045,,,,COVID-19,,,,,X-ray,,"VP, XRAY"
+COVID-00046,,,,COVID-19,,,,,X-ray,,Covid19 confirmed
+COVID-00047,,,,,,,,,X-ray,,
+COVID-00048,,,,COVID-19,,,,AP,X-ray,,
