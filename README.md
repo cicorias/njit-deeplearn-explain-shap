@@ -10,6 +10,10 @@ This repo is the second part of the project that is provided in two repos:
     part of the project and provides the SHAP visualizations and the project
     writeup.
 
+# Summary of SHAP Approach
+
+Discussed here: https://github.com/cicorias/njit-deeplearn-explain-shap/blob/master/README.md#shapley-value-overview
+
 # Authors
 
 | David Apolinar | Da468\@njit.edu  |
@@ -411,7 +415,7 @@ Red as it contributes positively or negatively towards classification.
 
     ![](media/bae8c419cee0c1a62bba1d50b57f2f8b.png)
 
-# Shapley Value Overview
+# Summary of SHAP Approach
 
 Before discussing the SHAP Method, it is important to discuss Shapley values,
 which the SHAP method relies on. The general idea is to determine how much each
