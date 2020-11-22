@@ -12,7 +12,7 @@ This repo is the second part of the project that is provided in two repos:
 
 # Summary of SHAP Approach
 
-Discussed here: https://github.com/cicorias/njit-deeplearn-explain-shap/blob/master/README.md#shapley-value-overview
+Discussed here: https://github.com/cicorias/njit-deeplearn-explain-shap/blob/master/README.md#summary-of-shap-approach-1
 
 # Authors
 
