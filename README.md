@@ -1,25 +1,45 @@
 # Explainable COVID-19 Pneumonia Project CS677 Fall 2020
 
-This repo is the second part of the project that is provided in two repos:
+> The project contents are present in two different GitHub repos -- see [Github Repos](#github-repos)
 
-1.  https://github.com/cicorias/njit-covid-cxr - this is a duplication of the
-    original work to create a trained model -- that model is used in the
-    following project
+# Project Parts
+## Part 1
+This part of the project is contained in the report - https://github.com/cicorias/njit-covid-cxr.
 
-2.  https://github.com/cicorias/njit-deeplearn-explain-shap - this is the second
-    part of the project and provides the SHAP visualizations and the project
-    writeup.
+The reproduction of the results emitted primaryly a Trained Tensorflow model and for the LIME steps a batch run of the predictions using the LIME implementation.
 
-# Summary of SHAP Approach
+1. Trained model - https://scicoria.blob.core.windows.net/public/model20201115-151427-random-imbalance-NO-fiscore-resnet50v2.h5
+2. LIME batch predictions from model: https://github.com/cicorias/njit-covid-cxr/tree/master/results/predictions/20201106-135747
+3. The review of the LIME results are here: https://github.com/cicorias/njit-deeplearn-explain-shap#initial-lime-implementation-reproduction-of-results
 
-Discussed here: https://github.com/cicorias/njit-deeplearn-explain-shap/blob/master/README.md#summary-of-shap-approach-1
+The model file was over 250 Megabytes and not appropriate for standard git commit and limited git-lfs support was requiring payment - so, the model is present in Azure Cloud Storage.
 
-# Authors
+## Part 2
+1. The summary of the SHAP approach is here: https://github.com/cicorias/njit-deeplearn-explain-shap/blob/master/README.md#summary-of-shap-approach-1
 
-| David Apolinar | Da468\@njit.edu  |
-|----------------|------------------|
-| Shawn Cicoria  | sc2443\@njit.edu |
-| Ted Moore      | tm437\@njit.edu  |
+## Part 3
+
+1. The application of the SHAP framework and packages - top level repo and discussion are:
+   a. Explanation on the Covid Dataset - https://github.com/cicorias/njit-deeplearn-explain-shap#using-the-shap-method-on-the-covid-data-set
+   b. Jupyter notebook - https://github.com/cicorias/njit-deeplearn-explain-shap/blob/master/shap-final-run.ipynb 
+   c. Top Level Repo (containing a + b) https://github.com/cicorias/njit-deeplearn-explain-shap#initial-lime-implementation-reproduction-of-results
+
+
+# Explainable COVID-19 Pneumonia Project CS677 Fall 2020
+
+# This repo is the second part of the project that is provided in two repos
+
+### Github Repos
+1. https://github.com/cicorias/njit-covid-cxr - this is a duplication of the original work to create a trained model -- that model is used in the following project
+2. https://github.com/cicorias/njit-deeplearn-explain-shap - this is the second part of the project and provides the SHAP visualizations and the project writeup.
+
+## Authors
+
+|name|email|
+|-|-|
+|David Apolinar|Da468 AT njit DOT edu|
+|Shawn Cicoria|sc2443 AT njit DOT edu|
+Ted Moore|tm437 AT njit DOT edu|
 
 # Overview
 
@@ -68,6 +88,7 @@ approaches. In addition, Lundberg and Lee present a framework called **SHAP**
 (*SHapley Additive exPlanations*) intending to be a unified framework for
 interpreting prediction that is used later in this brief.
 
+# Part 1
 ## Initial LIME implementation Reproduction of Results
 
 In order to rerun and train the model for similar results – you must follow the
@@ -415,7 +436,9 @@ Red as it contributes positively or negatively towards classification.
 
     ![](media/bae8c419cee0c1a62bba1d50b57f2f8b.png)
 
-# Summary of SHAP Approach
+# Part 2
+
+# Shapley Value Overview
 
 Before discussing the SHAP Method, it is important to discuss Shapley values,
 which the SHAP method relies on. The general idea is to determine how much each
@@ -560,6 +583,7 @@ AI](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overvie
 As outlined in the chart above, we choose to leverage Integrated Gradients since
 it fits our use-case, e.g. X-Rays.
 
+# Part 3
 ## Using the SHAP method on the COVID data set
 
 The Jupyter notebook
